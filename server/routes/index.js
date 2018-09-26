@@ -1,0 +1,6 @@
+export { default as about } from './about'
+export { default as help } from './help'
+export { default as places } from './places'
+export { default as privacy } from './privacy'
+export { default as report } from './report'
+export { default as users } from './users'
